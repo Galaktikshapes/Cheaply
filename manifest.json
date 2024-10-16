@@ -1,1 +1,22 @@
-
+{
+    "manifest_version": 3,
+    "name": "Cheaply",
+    "version": "1.0",
+    "description": "Let Your Money Chill, We’ll Handle the Bargain Hunt..",
+    "permissions": [
+        "activeTab"
+    ],
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon": {
+            "16": "icons/16x16 icon.png",
+            "48": "icons/48x48 icon.png",
+            "128": "icons/128x128 icon.png"
+        }
+    },
+    "icons": {
+        "16": "icons/16x16 icon.png",
+        "48": "icons/48x48 icon.png",
+        "128": "icons/128x128 icon.png"
+    }
+}
